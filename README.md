@@ -1,4 +1,4 @@
-# object Detection
+# Deep Learning based Object Detection
 
 ## Schematic Workflow
 
