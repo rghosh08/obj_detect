@@ -1,4 +1,4 @@
-# obj_detect
+# object Detection
 
 ## Schematic Workflow
 
